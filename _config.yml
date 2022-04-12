@@ -1,12 +1,12 @@
 # Site settings
 title: Tobias Rombey
-description: Jekyll Theme Minimal Resume
+description: IT-Systemadministrator
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "rombey86.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Tobias Rombey
-user_description: Ich bin ein IT-Systemadministrator aus Mönchengladbach und immer auf der Suche nach der nächsten Herausforderung; Keine Aufgabe ist zu schwer und kein Problem unlösbar.
+user_description: Ich bin ein IT-Systemadministrator aus Mönchengladbach und immer auf der Suche nach der nächsten Herausforderung; Keine Aufgabe ist zu schwer und kein Problem unlösbar. 
 user_title: IT-Systemadministrator
 email: rombey86@googlemail.com
 # twitter_username: lorem_ipsum
